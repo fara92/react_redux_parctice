@@ -53,4 +53,5 @@ PeoplePage.propTypes = {
     setErrorApi: PropTypes.func
 }
 
+//export default WithErrorApi(PeoplePage);
 export default WithErrorApi(PeoplePage);
