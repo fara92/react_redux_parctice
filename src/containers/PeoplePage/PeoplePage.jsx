@@ -54,4 +54,4 @@ PeoplePage.propTypes = {
 }
 
 //export default WithErrorApi(PeoplePage);
-export default WithErrorApi(PeoplePage);
+export default PeoplePage;
