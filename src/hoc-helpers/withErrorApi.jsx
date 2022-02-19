@@ -3,8 +3,8 @@ import ErrorMessage from "../components/ErrorMessage/ErrorMessage";
 
 export const WithErrorApi = View => {
 
-    const [errorApi, setErrorApi] = useState(false)
     return props => {
+    const [errorApi, setErrorApi] = useState(false)
 
         return (
             <div>

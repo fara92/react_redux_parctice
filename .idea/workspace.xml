@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b29e709e-2ea0-43cf-885e-124b48b3fb36" name="Default Changelist" comment="" />
+    <list default="true" id="b29e709e-2ea0-43cf-885e-124b48b3fb36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_02_2022_8_31__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_19_02_2022_8_31__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PeoplePage/PeopleList/peopleList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PeoplePage/PeopleList/peopleList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc-helpers/withErrorApi.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc-helpers/withErrorApi.jsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
